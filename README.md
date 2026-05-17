@@ -15,4 +15,4 @@ Déployé automatiquement sur GitHub Pages : <https://djam-hawaii.github.io/lege
 
 Tout commit sur `main` est publié automatiquement (~30 s à 1 min).
 
-Contact : <djamel@hawaii.fr>
+Contact : <18466764+djam-hawaii@users.noreply.github.com>
